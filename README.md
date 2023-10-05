@@ -9,9 +9,9 @@ Na pulpicie konta Egzamin należy utworzyć folder. Jako nazwy folderu należy u
 którym został podpisany arkusz. Rozpakowane pliki należy umieścić w tym folderze. Po skończonej pracy 
 wszystkie wyniki należy zapisać w tym folderze.
 Operacje na bazie danych
-Do wykonania operacji na bazie należy wykorzystać tabelę samochody z polami: id (klucz główny), marka, 
-model, rocznik, kolor, stan.
-	![alt](https://raw.githubusercontent.com/BartoszS12345678/Bartosz-Sochor/main/obraz1.png)
+Do wykonania operacji na bazie należy wykorzystać tabelę samochody z polami: id (klucz główny), marka, model, rocznik, kolor, stan.
+
+![alt](https://raw.githubusercontent.com/BartoszS12345678/Bartosz-Sochor/main/obraz1.png)
 
 Obraz 1.**Baza danych**
 -
